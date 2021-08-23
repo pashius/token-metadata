@@ -1,1 +1,1 @@
-{"symbol": "TTT", "name": "Tezos Test Token", "decimals": "0","description":"Tezos Test Token for FL & TU Course","authors":["FL"],"interfaces":["TZIP-007-2021-04-17","TZIP-016-2021-04-17"]}
+{"symbol": "TTT", "name": "Tezos Test Token", "decimals": "0", "icon" : "https://cdn.dribbble.com/users/1139587/screenshots/7302164/media/cb1480ce34e4332f0c9854482b821701.png", "description":"Tezos Test Token for FL & TU Course","authors":["FL"],"interfaces":["TZIP-007-2021-04-17","TZIP-016-2021-04-17"]}
